@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TamasaPC\\Desktop\\Cyclad\\Backend\\Cyclad.API\\Cyclad.API.csproj": {}
+    "C:\\Users\\TamasaPC\\Desktop\\Cyclad\\backend\\Cyclad.API\\Cyclad.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TamasaPC\\Desktop\\Cyclad\\Backend\\Cyclad.API\\Cyclad.API.csproj": {
+    "C:\\Users\\TamasaPC\\Desktop\\Cyclad\\backend\\Cyclad.API\\Cyclad.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TamasaPC\\Desktop\\Cyclad\\Backend\\Cyclad.API\\Cyclad.API.csproj",
+        "projectUniqueName": "C:\\Users\\TamasaPC\\Desktop\\Cyclad\\backend\\Cyclad.API\\Cyclad.API.csproj",
         "projectName": "Cyclad.API",
-        "projectPath": "C:\\Users\\TamasaPC\\Desktop\\Cyclad\\Backend\\Cyclad.API\\Cyclad.API.csproj",
+        "projectPath": "C:\\Users\\TamasaPC\\Desktop\\Cyclad\\backend\\Cyclad.API\\Cyclad.API.csproj",
         "packagesPath": "C:\\Users\\TamasaPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TamasaPC\\Desktop\\Cyclad\\Backend\\Cyclad.API\\obj\\",
+        "outputPath": "C:\\Users\\TamasaPC\\Desktop\\Cyclad\\backend\\Cyclad.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TamasaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
